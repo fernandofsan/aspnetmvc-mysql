@@ -1,0 +1,12 @@
+*.class
+*.dll
+*.exe
+*.pdb
+*.dll.config
+*.cache
+*.suo
+*csproj.user
+obj/
+.vs/
+packages/
+bin/
